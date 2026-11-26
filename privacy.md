@@ -43,7 +43,7 @@ Apple Health sync is optional, off by default and requires your permission, whic
 The app does not write fasts to Apple Health and does not read any other Health data. Information from Apple Health is never used for advertising, marketing or any purpose other than showing it to you.
 
 ## Children
-The app is not directed to children under 13, and we do not knowingly collect information from anyone, including children.
+The app is intended for adults (18 and older) and is not directed to children. We do not knowingly collect information from anyone, including children.
 
 ## Your choices
 You can edit or delete any fast or weight entry in the app, export your data as a CSV file (Respite Lifetime), turn iCloud sync off in iOS Settings, or delete the app to remove its data from your device.

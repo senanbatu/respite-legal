@@ -18,8 +18,9 @@ The Apple Watch app and its complications are part of Respite Lifetime. Open Res
 Say "Start a fast in Respite" or "End my fast in Respite", or add the **Fasting** control to Control Center, the Lock Screen or the Action button.
 
 ## Health note
-Respite is not a medical device and does not provide medical advice. Talk to a healthcare professional before starting a fasting routine, especially if you are pregnant or breastfeeding, have diabetes or another medical condition, take medication, or have a history of disordered eating.
+Respite is for adults (18+). It is a timer, not a medical device, and does not provide medical advice. You fast at your own risk; stop and get medical help if you feel unwell. Talk to a healthcare professional before starting a fasting routine, especially if you are pregnant or breastfeeding, have diabetes or another medical condition, take medication, or have a history of disordered eating.
 
 ## Legal
 - [Privacy Policy](privacy.html)
-- [Terms of Use (Apple standard license)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)
+- [Terms of Use](terms.html)
+- [Apple standard license (EULA)](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/)

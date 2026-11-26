@@ -1,6 +1,6 @@
 # Respite Privacy Policy
 
-_Last updated: November 26, 2026_
+_Last updated: November 27, 2026_
 
 This policy applies to the Respite app for iPhone and Apple Watch ("the app"), an intermittent fasting timer provided by Senan Batu Çobanoğlu. It explains what information the app handles.
 
@@ -8,6 +8,7 @@ This policy applies to the Respite app for iPhone and Apple Watch ("the app"), a
 - **We do not collect any data.** The app has no accounts, no analytics, no advertising and no third-party SDKs, and we do not run a server.
 - Your fasts, weight entries and settings are stored **on your device**. If you use iCloud, they are also stored in **your own private iCloud database**, which only you can access.
 - Purchases are handled by **Apple**. We never see your payment details.
+- If you turn on **Apple Health** sync, weight moves only between the app and Apple Health on your iPhone. Data read from Apple Health is never stored by the app or sent anywhere.
 
 ## Information stored on your devices
 To work, the app saves the following on your iPhone (and, for display, on your paired Apple Watch):
@@ -28,10 +29,17 @@ The Apple Watch app exchanges your current fasting status directly with your iPh
 Reminders are scheduled locally on your iPhone; no notification data is sent to us. Siri, Shortcuts, Control Center, widgets and Live Activities are provided by iOS and use the data already on your device.
 
 ## Purchases
-Respite Lifetime is a one-time in-app purchase processed by Apple through the App Store. The app checks your purchase with Apple's StoreKit on your device. Apple handles your payment details under Apple's privacy policy.
+Respite Lifetime is a one-time in-app purchase processed by Apple through the App Store. The app checks your purchase with Apple's StoreKit on your device. Apple handles your payment details under Apple's privacy policy. If you use Family Sharing, Apple may share Respite Lifetime with members of your family group; we receive no information about them.
 
 ## Health information
-Fasting times and weight are information about your health habits. They are stored only on your devices and in your private iCloud as described above. We never receive them, sell them, or use them for advertising or marketing. The app does not read from or write to Apple Health.
+Fasting times and weight are information about your health habits. They are stored only on your devices and in your private iCloud as described above. We never receive them, sell them, or use them for advertising or marketing.
+
+## Apple Health
+Apple Health sync is optional, off by default and requires your permission, which you can change at any time in the Health app. When it is on:
+- weights you log in Respite are **saved to Apple Health**, and removed from it if you delete them in Respite;
+- weights from other apps and devices in Apple Health (for example a smart scale) are **read to show in your weight chart**. They are read on your iPhone each time the chart is shown, are **not saved** in the app or in iCloud, and are never sent to us or anyone else.
+
+The app does not write fasts to Apple Health and does not read any other Health data. Information from Apple Health is never used for advertising, marketing or any purpose other than showing it to you.
 
 ## Children
 The app is not directed to children under 13, and we do not knowingly collect information from anyone, including children.

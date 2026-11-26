@@ -6,7 +6,8 @@ This policy applies to the Respite app for iPhone and Apple Watch ("the app"), a
 
 ## Short version
 - **We do not collect any data.** The app has no accounts, no analytics, no advertising and no third-party SDKs, and we do not run a server.
-- Your fasts, weight entries and settings are stored **on your device**. If you use iCloud, they are also stored in **your own private iCloud database**, which only you can access.
+- Your fasts and settings are stored **on your device**. If you use iCloud, your fasts are also stored in **your own private iCloud database**, which only you can access.
+- Weight entries are stored **only on your iPhone**. They are never stored in iCloud.
 - Purchases are handled by **Apple**. We never see your payment details.
 - If you turn on **Apple Health** sync, weight moves only between the app and Apple Health on your iPhone. Data read from Apple Health is never stored by the app or sent anywhere.
 
@@ -20,7 +21,7 @@ To work, the app saves the following on your iPhone (and, for display, on your p
 This information may also be included in your device's iCloud or computer backup. Deleting the app removes it from that device.
 
 ## iCloud sync
-If you are signed in to iCloud, the app stores your fasts and weight entries in your **private CloudKit database**, provided by Apple, so they sync between your devices and survive a new phone. This data belongs to your Apple Account. We, the developer, cannot read, access or export it. You can turn this off at any time in **iOS Settings → [your name] → iCloud**. Apple's handling of iCloud data is described in Apple's privacy policy: https://www.apple.com/legal/privacy/
+If you are signed in to iCloud, the app stores your fasts (start and end times, goals and notes) in your **private CloudKit database**, provided by Apple, so they sync between your devices and survive a new phone. This data belongs to your Apple Account. We, the developer, cannot read, access or export it. Weight entries are not synced to iCloud. You can turn iCloud sync off at any time in **iOS Settings → [your name] → iCloud**. Apple's handling of iCloud data is described in Apple's privacy policy: https://www.apple.com/legal/privacy/
 
 ## Apple Watch
 The Apple Watch app exchanges your current fasting status directly with your iPhone using Apple's WatchConnectivity framework. This data travels only between your own devices.
@@ -32,7 +33,7 @@ Reminders are scheduled locally on your iPhone; no notification data is sent to 
 Respite Lifetime is a one-time in-app purchase processed by Apple through the App Store. The app checks your purchase with Apple's StoreKit on your device. Apple handles your payment details under Apple's privacy policy. If you use Family Sharing, Apple may share Respite Lifetime with members of your family group; we receive no information about them.
 
 ## Health information
-Fasting times and weight are information about your health habits. They are stored only on your devices and in your private iCloud as described above. We never receive them, sell them, or use them for advertising or marketing.
+Weight is kept only on your iPhone (and, if you choose, in Apple Health). Fasting times are kept on your devices and in your private iCloud as described above. We never receive them, sell them, or use them for advertising or marketing.
 
 ## Apple Health
 Apple Health sync is optional, off by default and requires your permission, which you can change at any time in the Health app. When it is on:

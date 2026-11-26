@@ -9,7 +9,7 @@ Questions, problems or refund help: **batuna07@gmail.com**
 Respite Lifetime is a one-time purchase, not a subscription. On a new or reset device, open Respite, go to **Settings** and tap **Restore Purchases**, while signed in to the same Apple Account you used to buy it.
 
 ## Your fasts and iCloud
-Your fasts and weight entries are stored on your iPhone. If you are signed in to iCloud, they are also kept in your own private iCloud storage so they come back on a new iPhone and stay in sync across your devices. We can't see this data. **Settings → Your Data** shows whether iCloud Sync is on.
+Your fasts and weight entries are stored on your iPhone. If you are signed in to iCloud, your fasts are also kept in your own private iCloud storage so they come back on a new iPhone and stay in sync across your devices. Weight entries stay on your iPhone only; turn on Apple Health sync in Settings if you want your weight on your other devices. We can't see this data. **Settings → Your Data** shows whether iCloud Sync is on.
 
 ## Apple Watch
 The Apple Watch app and its complications are part of Respite Lifetime. Open Respite on your iPhone once so the watch can connect. Fasts you start or end on the watch are saved on your iPhone.
